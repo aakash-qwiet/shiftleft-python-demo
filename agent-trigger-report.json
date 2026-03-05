@@ -1,0 +1,5 @@
+{
+  "app": "test-app",
+  "error": "querying scans/check: API returned status 404, with code: 'TARGET_SCAN_NOT_FOUND' message: 'no successful scan found for compound 40525fa3-5c0a-4e76-8151-bacc8b348ba4'",
+  "status": "error"
+}

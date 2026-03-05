@@ -1,4 +1,7 @@
 from flask_webgoat import create_app
+import flask
+import requests
+import urllib3
 
 app = create_app()
 
